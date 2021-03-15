@@ -1,7 +1,7 @@
 baseURL = "https://curatedml.netlify.com"
 disqusShortname = ""
 googleAnalytics = ""
-paginate = "3"
+paginate = "10"
 summaryLength = "15"
 theme = "bigspring"
 title = "Curated ML"
